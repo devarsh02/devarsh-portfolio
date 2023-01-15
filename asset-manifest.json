@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/devarsh-portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/devarsh-portfolio/static/js/main.458df189.js",
+    "static/js/787.e4b04c31.chunk.js": "/devarsh-portfolio/static/js/787.e4b04c31.chunk.js",
+    "static/media/logo.svg": "/devarsh-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/devarsh-portfolio/index.html",
+    "main.073c9b0a.css.map": "/devarsh-portfolio/static/css/main.073c9b0a.css.map",
+    "main.458df189.js.map": "/devarsh-portfolio/static/js/main.458df189.js.map",
+    "787.e4b04c31.chunk.js.map": "/devarsh-portfolio/static/js/787.e4b04c31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.458df189.js"
+  ]
+}
